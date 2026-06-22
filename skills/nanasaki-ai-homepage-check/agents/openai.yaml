@@ -1,0 +1,4 @@
+interface:
+  display_name: "七咲式完成品チェックスキル"
+  short_description: "完成したホームページを設計図と照合して品質チェック"
+  default_prompt: "Use $nanasaki-ai-homepage-check to review the completed website against the Nanasaki blueprint and list prioritized fixes."

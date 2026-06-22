@@ -1,0 +1,4 @@
+interface:
+  display_name: "七咲式AIホームページ受注スキル"
+  short_description: "ホームページ制作の設計図を作成"
+  default_prompt: "Use $nanasaki-ai-homepage-order to interview me and create a client-ready website production blueprint."
